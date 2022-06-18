@@ -8,7 +8,8 @@ body {
 }
 
 h1 {
-  margin: 50px auto 0 auto;
+  padding-top: 100px;
+  padding-bottom:50px;
   font-size: 5.625rem;
   line-height: 2;
   font-family: 'Sacramento', sans-serif;
@@ -57,21 +58,10 @@ p{
   position: relative;
 }
 
-.top_cloud {
-  position: absolute;
-  top: 50px;
-  left: 950px;
-}
-
-.bottom_cloud {
-  position: absolute;
-  top: 150px;
-  left: 300px;
-}
-
 .description {
+  padding-bottom: 50px;
   width: 450px;
-  margin: 0 auto;
+  margin: 0 auto 50px;
 }
 
 .bold_text {
